@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T11:01:11.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.1.8" etag="NFPy9HNFlafY7T8UspQk" type="github"><diagram id="jjej4fmLEBqrr3OEJkFB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-22T12:00:03.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="gZY6mDL8ECoDL2qXq4Lz" version="14.1.8" type="github">
+  <diagram id="jjej4fmLEBqrr3OEJkFB" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-2" value="Dev Services User Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="362" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-4" value="UI" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-6" value="SNOW" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-7" value="Request token(1)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-8" value="" style="endArrow=classic;html=1;entryX=-0.044;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="FH7q5liXCHAv0gD8ZMs1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="270" as="sourcePoint" />
+            <mxPoint x="160" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-9" value="" style="endArrow=classic;html=1;exitX=0.309;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-2" target="FH7q5liXCHAv0gD8ZMs1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-10" value="Return token with user Id(2)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-11" value="Dev Services User Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-12" value="" style="endArrow=classic;html=1;exitX=0.338;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.353;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="FH7q5liXCHAv0gD8ZMs1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="270" as="sourcePoint" />
+            <mxPoint x="80" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FH7q5liXCHAv0gD8ZMs1-14" value="Use token to pass in user id(3)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
