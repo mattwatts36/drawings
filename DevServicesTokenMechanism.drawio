@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T20:40:49.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="uSJaY88ADWQ4KXwsBrJ7" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T20:44:53.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="W1CgjYGC5qXCNdXtcVEn" version="14.2.7" type="github">
   <diagram id="jjej4fmLEBqrr3OEJkFB" name="Page-1">
     <mxGraphModel dx="1576" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jdot4jJY3YEQJZz5PXNt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="Jdot4jJY3YEQJZz5PXNt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="Jdot4jJY3YEQJZz5PXNt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="Jdot4jJY3YEQJZz5PXNt-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-4" value="UI" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -71,6 +77,18 @@
         </mxCell>
         <mxCell id="Jdot4jJY3YEQJZz5PXNt-26" value="Register A user(1)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="600" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jdot4jJY3YEQJZz5PXNt-29" target="Jdot4jJY3YEQJZz5PXNt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-29" value="Login and generate a token(2)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jdot4jJY3YEQJZz5PXNt-32" target="Jdot4jJY3YEQJZz5PXNt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-32" value="Get application details using passing user token(3)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="730" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
