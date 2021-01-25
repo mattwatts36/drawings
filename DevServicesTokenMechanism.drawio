@@ -1,20 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T20:20:06.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="28Il6zzoQw6QaH6uA4A9" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T20:31:56.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="tM_PVyoKJsoYcznbuiDV" version="14.2.7" type="github">
   <diagram id="jjej4fmLEBqrr3OEJkFB" name="Page-1">
-    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1576" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-2" value="Dev Services User Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" parent="1" vertex="1">
-          <mxGeometry x="310" y="362" width="68" height="68" as="geometry" />
+          <mxGeometry x="350" y="160" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-4" value="UI" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="80" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="128" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-6" target="Jdot4jJY3YEQJZz5PXNt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-6" target="Jdot4jJY3YEQJZz5PXNt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-6" target="Jdot4jJY3YEQJZz5PXNt-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-6" value="SNOW" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="560" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-7" value="Request token(1)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="310" width="130" height="80" as="geometry" />
+          <mxGeometry x="175" y="200" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-8" value="" style="endArrow=classic;html=1;entryX=-0.044;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="FH7q5liXCHAv0gD8ZMs1-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,10 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-10" value="Return token with user Id(2)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-11" value="Dev Services Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" parent="1" vertex="1">
-          <mxGeometry x="60" y="530" width="68" height="68" as="geometry" />
+          <mxGeometry x="60" y="242" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-12" value="" style="endArrow=classic;html=1;exitX=0.338;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.353;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FH7q5liXCHAv0gD8ZMs1-4" target="FH7q5liXCHAv0gD8ZMs1-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,43 +50,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-14" value="Use token to pass in user id(3)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="450" width="130" height="80" as="geometry" />
+          <mxGeometry x="160" y="290" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FH7q5liXCHAv0gD8ZMs1-15" value="The endpoints will only return data based on the user id in the token.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="630" width="190" height="20" as="geometry" />
+          <mxGeometry x="140" y="394" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-1" value="Dev Services User Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="660" y="370" width="68" height="68" as="geometry" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-6" value="/api/SuperAdmin/RegisterSuperAdmin" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="285" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-2" value="Return token with SnowAdmin privilage" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="270" width="120" height="80" as="geometry" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-7" value="/api/AppUser/Register" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_CdD4ejrRnpAqoKXt79d-1">
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="771.01" y="370.98" as="sourcePoint" />
-            <mxPoint x="599.998" y="229.99999999999997" as="targetPoint" />
+            <mxPoint x="10" y="400" as="sourcePoint" />
+            <mxPoint x="1170" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-4" value="" style="endArrow=classic;html=1;entryX=0.015;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.175;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FH7q5liXCHAv0gD8ZMs1-6" target="_CdD4ejrRnpAqoKXt79d-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="340" as="sourcePoint" />
-            <mxPoint x="657.008" y="483.972" as="targetPoint" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-9" value="SoutherWater Network" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-11" value="/api/AppUser/Login" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jdot4jJY3YEQJZz5PXNt-12" target="Jdot4jJY3YEQJZz5PXNt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-12" value="Register As Super Admin User(1)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="130" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-17" value="/api/Application/GetApplicationById/{id}" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jdot4jJY3YEQJZz5PXNt-19" target="Jdot4jJY3YEQJZz5PXNt-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="340" />
+              <mxPoint x="435" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-5" value="Request token(1)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="350" width="90" height="80" as="geometry" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-19" value="Login and generate a token(2)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-6" value="Dev Services Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="541" y="456" width="68" height="68" as="geometry" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jdot4jJY3YEQJZz5PXNt-22" target="Jdot4jJY3YEQJZz5PXNt-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-7" value="" style="endArrow=classic;html=1;exitX=0.338;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.397;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_CdD4ejrRnpAqoKXt79d-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="230" as="sourcePoint" />
-            <mxPoint x="546.9639999999999" y="539.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_CdD4ejrRnpAqoKXt79d-8" value="The admin token will allow Snow to just pass in the userid outside of the token..&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="565" width="190" height="20" as="geometry" />
+        <mxCell id="Jdot4jJY3YEQJZz5PXNt-22" value="Get application details using passing user token" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="170" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
