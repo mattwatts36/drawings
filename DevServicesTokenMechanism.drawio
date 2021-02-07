@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T18:19:54.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="cD0ydnXu7Ta-BRJLad6i" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T18:20:05.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DLmE_sneklaqo69-Rg69" version="14.2.9" type="github">
   <diagram id="jjej4fmLEBqrr3OEJkFB" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jdot4jJY3YEQJZz5PXNt-32" value="Get application details passing user token(3)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="730" width="180" height="80" as="geometry" />
+          <mxGeometry x="780" y="730" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Jdot4jJY3YEQJZz5PXNt-36" value="wattsma" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="680" width="120" height="80" as="geometry" />
