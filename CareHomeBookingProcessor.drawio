@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T21:49:57.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QxKJ50QztPGZ6MdbJhvL" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T21:55:30.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hXJ4KvqCUSNy6vEAn6Ci" version="20.8.16" type="github">
   <diagram name="Page-1" id="-GhN3AoTO70XJhTJp4iw">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="H3vJnbtFCfsntMHC7mZ7-6" value="Other" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="420" y="70" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H3vJnbtFCfsntMHC7mZ7-9" value="No SQL data store" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="H3vJnbtFCfsntMHC7mZ7-9" value="SQL database" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="250" y="310" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H3vJnbtFCfsntMHC7mZ7-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;" parent="1" vertex="1">
