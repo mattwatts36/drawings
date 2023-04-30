@@ -1,28 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T14:23:26.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="axmxn8NMtGRuSBVTzwg_" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T21:22:05.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eoIDzik3P86KEHH4vfwf" version="21.2.3" type="github">
   <diagram name="Page-1" id="14xnCQhIqdQmL1j1vv5w">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AoPohb22zP9q7hFqZ5bK-1" target="AoPohb22zP9q7hFqZ5bK-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AoPohb22zP9q7hFqZ5bK-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-1" value="Care Sourcer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="130" width="210" height="110" as="geometry" />
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-1" value="https://www.caresourcer.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AoPohb22zP9q7hFqZ5bK-2" target="AoPohb22zP9q7hFqZ5bK-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-2" value="Care Home Booking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-4" value="Cool Care" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="50" width="30" height="60" as="geometry" />
@@ -34,27 +31,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-11" value="User selects a room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="100" height="30" as="geometry" />
+          <mxGeometry x="250" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AoPohb22zP9q7hFqZ5bK-12" value="Create Enquiry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="399" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="399" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AoPohb22zP9q7hFqZ5bK-13" target="AoPohb22zP9q7hFqZ5bK-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-13" value="Care Sourcer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="190" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-14" value="Care Home Booking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="359" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="60" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AoPohb22zP9q7hFqZ5bK-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="AoPohb22zP9q7hFqZ5bK-13">
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.808;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AoPohb22zP9q7hFqZ5bK-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="105" as="sourcePoint" />
-            <mxPoint x="610" y="55" as="targetPoint" />
+            <mxPoint x="300" y="470" as="sourcePoint" />
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-21" value="Check users in rooms to see if we get a referral fee&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-22" value="&lt;h1&gt;Charging&lt;/h1&gt;&lt;p&gt;1. Charge monthly fee&lt;/p&gt;&lt;p&gt;2. Charge per booking&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-23" value="carehome.co.uk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AoPohb22zP9q7hFqZ5bK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="260" as="sourcePoint" />
+            <mxPoint x="210" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AoPohb22zP9q7hFqZ5bK-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AoPohb22zP9q7hFqZ5bK-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="120" as="sourcePoint" />
+            <mxPoint x="125" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
