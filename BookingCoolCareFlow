@@ -1,47 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T14:24:08.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O53luBc06-9X5XyPaiCl" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T15:43:31.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VHK2NpbV2qxk26Ante6J" version="21.2.9" type="github">
   <diagram name="Page-1" id="CF4rETNNIa-L0OMoC-ah">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sBcvpspmdOlJKKxCh_8j-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-1" target="sBcvpspmdOlJKKxCh_8j-2">
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-1" target="sBcvpspmdOlJKKxCh_8j-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sBcvpspmdOlJKKxCh_8j-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-2" target="sBcvpspmdOlJKKxCh_8j-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sBcvpspmdOlJKKxCh_8j-2" value="Company Site" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-4" target="sBcvpspmdOlJKKxCh_8j-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-4" value="Care Home HQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sBcvpspmdOlJKKxCh_8j-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-8" target="sBcvpspmdOlJKKxCh_8j-10">
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-8" target="sBcvpspmdOlJKKxCh_8j-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-8" value="Care Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sBcvpspmdOlJKKxCh_8j-10" value="Cool Care" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-12" value="Enquire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-13" value="Enquiry sent to Care Home Head Office Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="180" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-15" value="Inform Relevant Care Home about the enquiry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBcvpspmdOlJKKxCh_8j-16" value="The relevant enquiry is now added to Cool Care" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-20" target="sBcvpspmdOlJKKxCh_8j-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-23" target="sBcvpspmdOlJKKxCh_8j-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-23" value="Care Home Website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-29" value="Cool Care" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sBcvpspmdOlJKKxCh_8j-31" target="sBcvpspmdOlJKKxCh_8j-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBcvpspmdOlJKKxCh_8j-31" value="Care Home Booking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
