@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T12:49:54.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.0" etag="W6La6--zRnCkoOgrycp8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T15:04:16.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="38lSO8_5uFyArTQWpb5c" version="21.3.0" type="github">
   <diagram name="Page-1" id="77dgJjGsccioZgK8hfgZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3xtFwST2GhGsvsta4LYN-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3xtFwST2GhGsvsta4LYN-2" target="3xtFwST2GhGsvsta4LYN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-2" value="Blazor Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3xtFwST2GhGsvsta4LYN-3" target="3xtFwST2GhGsvsta4LYN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-3" value="Blazor Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-4" value="SQL Server&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3xtFwST2GhGsvsta4LYN-5" target="3xtFwST2GhGsvsta4LYN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-5" value="App Services API .Net" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-6" value="Odysseys Identity Provider" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-7" value="Key Vault" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-8" value="Azure AD" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3xtFwST2GhGsvsta4LYN-8" target="3xtFwST2GhGsvsta4LYN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-13" value="Resource Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-21" value="Azure Function keep information up to date" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3xtFwST2GhGsvsta4LYN-22" target="3xtFwST2GhGsvsta4LYN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-22" value="Microsoft Project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-24" value="Azure Function keep information up to date" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3xtFwST2GhGsvsta4LYN-25" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="140" width="830" height="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
