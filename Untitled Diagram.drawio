@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T09:50:03.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.5" etag="tekQyT7n2jA7V_Z9FHdz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T10:55:26.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nsjPrZk-M8F02dAMWbud" version="21.7.5" type="github">
   <diagram name="Page-1" id="UU-h28CmPC5zSTUZ7Iby">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qiKAItArFdu57yQOFc0t-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-1" target="qiKAItArFdu57yQOFc0t-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="526" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-7" target="qiKAItArFdu57yQOFc0t-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-8" target="qiKAItArFdu57yQOFc0t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-8" value="Matt wants £100" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="145" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-10" target="qiKAItArFdu57yQOFc0t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-10" value="Create a new batch" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="145" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-13" value="Batch 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-14" target="qiKAItArFdu57yQOFc0t-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-14" value="Create new instruction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-16" target="qiKAItArFdu57yQOFc0t-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="900" width="526" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-18" value="Batch 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-19" value="Batch 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-20" value="Pay Matt £100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-21" target="qiKAItArFdu57yQOFc0t-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qiKAItArFdu57yQOFc0t-23" target="qiKAItArFdu57yQOFc0t-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-23" value="Alex wants £100" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiKAItArFdu57yQOFc0t-25" value="How can I tell if we already have a batch?" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
