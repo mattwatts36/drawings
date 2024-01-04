@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T17:35:36.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mY7kC-bgQRR7TQjX98ry" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:36:14.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Pahg_p5EaMgQxXMiDtaN" version="22.1.16" type="github">
   <diagram name="Page-1" id="aKkkLzMY0BgT35kmP0Dj">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="JIblSGN78RsDUKeL3w1R-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database_sql_azure;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
           <mxGeometry x="220" y="430" width="63.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="C#/Blazor web&amp;nbsp; front end but could be Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="C#/Blazor web&amp;nbsp; front end or Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
           <mxGeometry x="289" y="64" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIblSGN78RsDUKeL3w1R-18" value="C# back end API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
