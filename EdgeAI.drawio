@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T17:22:18.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="asibQaGhQH7M7TNHAbCO" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:35:36.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mY7kC-bgQRR7TQjX98ry" version="22.1.16" type="github">
   <diagram name="Page-1" id="aKkkLzMY0BgT35kmP0Dj">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="JIblSGN78RsDUKeL3w1R-13" value="Azure Functions or SQL ETL(Datafactory)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="29shwmDahnXRfhhSZASJ-1">
           <mxGeometry x="130" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIblSGN78RsDUKeL3w1R-16" value="SQL Server Import database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="29shwmDahnXRfhhSZASJ-1">
+          <mxGeometry x="287" y="40" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="29shwmDahnXRfhhSZASJ-6" value="Quickbooks API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="40" y="950" width="50" height="60" as="geometry" />
@@ -90,8 +93,14 @@
         <mxCell id="JIblSGN78RsDUKeL3w1R-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database_sql_azure;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
           <mxGeometry x="220" y="430" width="63.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="C#/Blazor front end but could be Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="C#/Blazor web&amp;nbsp; front end but could be Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
           <mxGeometry x="289" y="64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIblSGN78RsDUKeL3w1R-18" value="C# back end API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+          <mxGeometry x="284" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIblSGN78RsDUKeL3w1R-17" value="SQL Server Application Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+          <mxGeometry x="142" y="440" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-T0KHPP-oXkvQVDS-ob-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-T0KHPP-oXkvQVDS-ob-2" target="v-T0KHPP-oXkvQVDS-ob-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,8 +132,8 @@
         <mxCell id="JIblSGN78RsDUKeL3w1R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwCh8djiiDDHsSN2Gcl9-8" target="JIblSGN78RsDUKeL3w1R-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JIblSGN78RsDUKeL3w1R-12" value="Bus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="725" width="60" height="30" as="geometry" />
+        <mxCell id="JIblSGN78RsDUKeL3w1R-12" value="Bus to move relevant import data into our application database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="725" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
