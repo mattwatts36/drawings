@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T19:21:42.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SdIghp9-f0rjQ2ccMvVo" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:11:23.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ue355RlOgqeZ7Lo_1jBv" version="22.1.16" type="github">
   <diagram name="Page-1" id="aKkkLzMY0BgT35kmP0Dj">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIblSGN78RsDUKeL3w1R-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Service_Bus.svg;" vertex="1" parent="1">
-          <mxGeometry x="377.75" y="710" width="68" height="60" as="geometry" />
+          <mxGeometry x="310" y="710" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JIblSGN78RsDUKeL3w1R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwCh8djiiDDHsSN2Gcl9-8" target="JIblSGN78RsDUKeL3w1R-9">
           <mxGeometry relative="1" as="geometry" />
