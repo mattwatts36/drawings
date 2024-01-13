@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T15:11:07.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i9VrYGhNrErOdUViXTM8" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T15:15:15.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hfIbD3eZW-rzRvYOQyDr" version="22.1.18" type="github">
   <diagram name="Page-1" id="aKkkLzMY0BgT35kmP0Dj">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-16" value="Basic charts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-16" value="Basic charts and reports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
           <mxGeometry x="404" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-T0KHPP-oXkvQVDS-ob-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-T0KHPP-oXkvQVDS-ob-2" target="v-T0KHPP-oXkvQVDS-ob-1" edge="1">
