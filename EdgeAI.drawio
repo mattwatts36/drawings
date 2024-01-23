@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T15:15:15.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hfIbD3eZW-rzRvYOQyDr" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T21:23:30.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZIf2Oi3uZ4PbLcLKyw6V" version="22.1.21" type="github">
   <diagram name="Page-1" id="aKkkLzMY0BgT35kmP0Dj">
     <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,25 +75,25 @@
         <mxCell id="JIblSGN78RsDUKeL3w1R-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database_sql_azure;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="220" y="430" width="63.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="C#/Blazor web&amp;nbsp; front end or Angular" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
+        <mxCell id="JIblSGN78RsDUKeL3w1R-14" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="289" y="64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JIblSGN78RsDUKeL3w1R-18" value="C# back end API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
+        <mxCell id="JIblSGN78RsDUKeL3w1R-18" value="Back end API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="284" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIblSGN78RsDUKeL3w1R-17" value="SQL Server Application Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="170" y="400" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-14" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-14" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="392" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="zwCh8djiiDDHsSN2Gcl9-1" source="zwCh8djiiDDHsSN2Gcl9-10" target="oGEQbCLxaFjtjFKtjBMN-14">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" source="zwCh8djiiDDHsSN2Gcl9-10" target="oGEQbCLxaFjtjFKtjBMN-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="250" as="sourcePoint" />
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-16" value="Basic charts and reports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zwCh8djiiDDHsSN2Gcl9-1">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-16" value="Basic charts and reports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zwCh8djiiDDHsSN2Gcl9-1" vertex="1">
           <mxGeometry x="404" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-T0KHPP-oXkvQVDS-ob-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-T0KHPP-oXkvQVDS-ob-2" target="v-T0KHPP-oXkvQVDS-ob-1" edge="1">
@@ -111,10 +111,10 @@
         <mxCell id="v-T0KHPP-oXkvQVDS-ob-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-T0KHPP-oXkvQVDS-ob-14" target="v-T0KHPP-oXkvQVDS-ob-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIblSGN78RsDUKeL3w1R-1" target="v-T0KHPP-oXkvQVDS-ob-13">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JIblSGN78RsDUKeL3w1R-1" target="v-T0KHPP-oXkvQVDS-ob-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oGEQbCLxaFjtjFKtjBMN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIblSGN78RsDUKeL3w1R-1" target="v-T0KHPP-oXkvQVDS-ob-14">
+        <mxCell id="oGEQbCLxaFjtjFKtjBMN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JIblSGN78RsDUKeL3w1R-1" target="v-T0KHPP-oXkvQVDS-ob-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
