@@ -1,9 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T09:24:15.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.2" etag="Qh3Ac30aq1K3PZioTWy5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:39:21.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dmyPPpkzOHkGzqudZKzu" version="23.1.2" type="github">
   <diagram name="Page-1" id="DWpMQQVn1lZ2zt1kAZdU">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tmO0VBo-ERAZb80kegkf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmO0VBo-ERAZb80kegkf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmO0VBo-ERAZb80kegkf-2" value="Event (time-&#xa;based)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.event_time_based;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmO0VBo-ERAZb80kegkf-5" value="money paid into child account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tmO0VBo-ERAZb80kegkf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmO0VBo-ERAZb80kegkf-8" target="tmO0VBo-ERAZb80kegkf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmO0VBo-ERAZb80kegkf-8" value="Send Email" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmO0VBo-ERAZb80kegkf-9" value="Store JSON with Details" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
