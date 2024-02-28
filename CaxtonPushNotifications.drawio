@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T09:34:02.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.2" etag="zvvc-gTe-nug0Lp8It2o" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:05:45.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xfqxWYc_7oqeOgzMWPf4" version="23.1.2" type="github">
   <diagram name="Page-1" id="zNh0KvHFWbtnfTPr5riH">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-1" target="ImAyc6x-_rFWX8c06Pwl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-1" value="User logs in on mobile app&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-2" target="ImAyc6x-_rFWX8c06Pwl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-2" value="Calls Google" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-4" target="ImAyc6x-_rFWX8c06Pwl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-4" value="Gets push token" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-6" target="ImAyc6x-_rFWX8c06Pwl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-6" value="Call nimbl security API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-10" value="Link the push token with the user on nimbl" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
