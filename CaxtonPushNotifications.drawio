@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T10:32:21.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CZ-QlpeswQxEdjCbe8Ra" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T10:53:31.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="e5QW6MBcoDGnjvuPD0FG" version="24.0.1" type="github">
   <diagram name="Page-1" id="zNh0KvHFWbtnfTPr5riH">
-    <mxGraphModel dx="1434" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ImAyc6x-_rFWX8c06Pwl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ImAyc6x-_rFWX8c06Pwl-1" target="ImAyc6x-_rFWX8c06Pwl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-1" target="KaxOUmFlfcMVJWZ9HVVq-1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ImAyc6x-_rFWX8c06Pwl-1" target="KaxOUmFlfcMVJWZ9HVVq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ImAyc6x-_rFWX8c06Pwl-1" value="User logs in on mobile app&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,107 +25,107 @@
         <mxCell id="ImAyc6x-_rFWX8c06Pwl-4" value="Gets push token" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-6" target="KaxOUmFlfcMVJWZ9HVVq-33">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ImAyc6x-_rFWX8c06Pwl-6" target="KaxOUmFlfcMVJWZ9HVVq-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ImAyc6x-_rFWX8c06Pwl-6" value="Call nimbl registration endpoint" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="590" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ImAyc6x-_rFWX8c06Pwl-10" target="KaxOUmFlfcMVJWZ9HVVq-3">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ImAyc6x-_rFWX8c06Pwl-10" target="KaxOUmFlfcMVJWZ9HVVq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ImAyc6x-_rFWX8c06Pwl-10" value="enhance user details to our database" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ImAyc6x-_rFWX8c06Pwl-10" value="Enhance user details in our database" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="234" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-1" value="Call new identity server" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-1" value="Call new identity server" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="150" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-3" target="KaxOUmFlfcMVJWZ9HVVq-5">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-3" target="KaxOUmFlfcMVJWZ9HVVq-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-3" value="Create event for user registration" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-3" value="Create event for user registration" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="234" y="-470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-5" value="Update Azure with new user details of user id, push notification and push id" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-5" value="Update Azure with new user details of user id, push notification and push id" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="209" y="-330" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-9" value="&lt;h1&gt;Token Registration&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-9" value="&lt;h1&gt;Token Registration&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="304" y="-1140" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-10" value="&lt;h1&gt;Push Notification&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-10" value="&lt;h1&gt;Push Notification&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="266" y="370" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-11" target="KaxOUmFlfcMVJWZ9HVVq-14">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-11" target="KaxOUmFlfcMVJWZ9HVVq-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-11" value="Notification Raised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-11" value="Notification Raised" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-14" target="KaxOUmFlfcMVJWZ9HVVq-16">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-14" target="KaxOUmFlfcMVJWZ9HVVq-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-14" target="KaxOUmFlfcMVJWZ9HVVq-38">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-14" target="KaxOUmFlfcMVJWZ9HVVq-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-14" value="Put Notification&amp;nbsp; on queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-14" value="Put Notification&amp;nbsp; on queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="301" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-16" value="Tag devices on Azure and send the notificaiton" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-16" value="Tag devices on Azure and send the notificaiton" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="301" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-18" value="&lt;h1&gt;Token Deregistration&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-18" value="&lt;h1&gt;Token Deregistration&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="-240" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-19" target="KaxOUmFlfcMVJWZ9HVVq-20">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-19" target="KaxOUmFlfcMVJWZ9HVVq-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-19" value="User logouts out of application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-19" value="User logouts out of application" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-20" target="KaxOUmFlfcMVJWZ9HVVq-22">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-20" target="KaxOUmFlfcMVJWZ9HVVq-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-20" value="Call nimbl Deregistration endpoint" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-20" value="Call nimbl Deregistration endpoint" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="250" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-22" target="KaxOUmFlfcMVJWZ9HVVq-24">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-22" target="KaxOUmFlfcMVJWZ9HVVq-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-22" value="Put the deregistration event on a queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-22" value="Put the deregistration event on a queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-24" value="Update Azure&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-24" value="Update Azure&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-27" target="ImAyc6x-_rFWX8c06Pwl-10">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-27" target="ImAyc6x-_rFWX8c06Pwl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="-780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-27" value="sign up will create user details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-27" value="sign up will create user details" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-29" value="user details will already be created on sign up, we need to add the extra user details potentially" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-29" value="user details will already be created on sign up, we need to add the extra user details&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="64" y="-580" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-30" value="We need to look at deregistation at this point as&amp;nbsp; a user might not have logged out of the app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-30" value="We need to look at deregistation at this point as&amp;nbsp; a user might not have logged out of the app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="-550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-31" value="We might not need this step" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-31" value="We might not need this step" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="-455" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-33" target="ImAyc6x-_rFWX8c06Pwl-10">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaxOUmFlfcMVJWZ9HVVq-33" target="ImAyc6x-_rFWX8c06Pwl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-33" value="create a bus message&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-33" value="create a bus message&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="400" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-37" value="what happens if user doesnt have internet connectivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="-60" width="60" height="30" as="geometry" />
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-37" value="what happens if user doesnt have internet connectivity?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="344" y="-70" width="176" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-38" value="template creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KaxOUmFlfcMVJWZ9HVVq-38" value="template creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="501" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
