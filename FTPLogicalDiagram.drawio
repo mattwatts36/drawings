@@ -1,29 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T15:41:42.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="rBfKlxtZAGe4SpMZkein" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T08:56:10.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Rbd3KfywK7pth-Gi9fig" version="24.5.2" type="github">
   <diagram name="Page-1" id="zcoG4AAyd9BptsJxTXVu">
     <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="890" height="60" as="geometry" />
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="980" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="891" height="530" as="geometry" />
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="980" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-3" value="TFL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
-          <mxGeometry x="370" y="30" width="180" height="30" as="geometry" />
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-6" value="PARE" style="rounded=0;whiteSpace=wrap;html=1;" parent="KyWP97ZXqfvoLbvOsxDn-2" vertex="1">
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-6" value="PARE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
-          <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-7" value="FAE" style="rounded=0;whiteSpace=wrap;html=1;" parent="KyWP97ZXqfvoLbvOsxDn-2" vertex="1">
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-7" value="FAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
-          <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-8" value="Master Data(Fares Data)" style="rounded=0;whiteSpace=wrap;html=1;" parent="KyWP97ZXqfvoLbvOsxDn-2" vertex="1">
+          <mxGeometry x="620" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-8" value="Master Data(Fares Data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
-          <mxGeometry x="610" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="o1htwNQCdB0CThncyE0F-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TFL&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
+          <mxGeometry x="380" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KyWP97ZXqfvoLbvOsxDn-5" value="PCS/CUBIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o1htwNQCdB0CThncyE0F-4" value="PARE - Deals with CUBIC and taps. Its not a real time system. Data is passed around using flat files.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
+          <mxGeometry x="370" y="80" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-5" value="Deals with travel tokens and travel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
+          <mxGeometry x="300" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-7" value="Holds the reference data such as fare station information. It has an API which can be called using request/response." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KyWP97ZXqfvoLbvOsxDn-2">
+          <mxGeometry x="747" y="235" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="KyWP97ZXqfvoLbvOsxDn-2" target="KyWP97ZXqfvoLbvOsxDn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="250" as="sourcePoint" />
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KyWP97ZXqfvoLbvOsxDn-2" target="KyWP97ZXqfvoLbvOsxDn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="280" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyWP97ZXqfvoLbvOsxDn-5" value="PCS/CUBIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.435;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KyWP97ZXqfvoLbvOsxDn-6" target="KyWP97ZXqfvoLbvOsxDn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="520" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1htwNQCdB0CThncyE0F-6" value="Token passed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
