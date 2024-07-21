@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T19:28:04.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hckQwTSajP5gYwZjHAPI" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-21T19:30:12.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pODX1sweEeAia76xeqNt" version="24.7.1" type="github" pages="8">
   <diagram name="Main" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -491,13 +491,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zQTZYRi0yAqtvOlICUM8" name="Sign Up Page">
+  <diagram id="zQTZYRi0yAqtvOlICUM8" name="Sign Up Page Introduction">
     <mxGraphModel dx="3088" dy="3084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iZZ5gHoONJZ-EVDijPHd-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sign Up Page&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="-2320" width="180" height="40" as="geometry" />
+        <mxCell id="iZZ5gHoONJZ-EVDijPHd-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sign Up Page Introduction&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="-2320" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iZZ5gHoONJZ-EVDijPHd-2" value="Buyer Only" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=1;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1605" y="-2210" width="10" height="10" as="geometry" />
@@ -539,7 +539,7 @@
             <mxPoint x="10" y="506" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGZ_YDLx9jK8iRYL8ePF-7" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="LGZ_YDLx9jK8iRYL8ePF-1">
+        <mxCell id="LGZ_YDLx9jK8iRYL8ePF-7" value="Sign Up" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="LGZ_YDLx9jK8iRYL8ePF-1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
             <mxPoint x="10" y="550" as="offset" />
           </mxGeometry>
