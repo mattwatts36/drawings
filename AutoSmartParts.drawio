@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T18:30:32.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="feS8dYMV23HCLhZSCz3F" version="24.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-21T18:39:55.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9ttnZvRt2rKdj_9yBn4N" version="24.7.1" type="github" pages="5">
   <diagram name="Main" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -275,6 +275,9 @@
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MTuxTl-HzfCf3xgHWUIK-7" target="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MTuxTl-HzfCf3xgHWUIK-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="200" y="1570" width="200" height="150" as="geometry" />
         </mxCell>
@@ -401,6 +404,32 @@
         <mxCell id="nQCDXX9lIOpYjXeRbNyp-4" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=16;" vertex="1" parent="nQCDXX9lIOpYjXeRbNyp-1">
           <mxGeometry x="1" width="40" height="40" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1800" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-2" value="Contact Details&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-3" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-4" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-5" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-6" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+          <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
