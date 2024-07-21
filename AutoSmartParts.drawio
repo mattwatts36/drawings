@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T19:14:25.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pT1vwfOnQOd36O6q18cv" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-21T19:24:23.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ov7enlcauO30GiQA34Tc" version="24.7.1" type="github" pages="8">
   <diagram name="Main" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -599,6 +599,75 @@
         </mxCell>
         <mxCell id="y7yWxjsqqGcCzIQFWNCV-2" value="Please contact us and we will set up those for you and discuss the pricing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="-2160" width="410" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wbP4X8MR50BhYbZexIdJ" name="Seller Sign Up For Single Site">
+    <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1120" width="230" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-2" value="Email address" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry width="220" height="40" relative="1" as="geometry">
+            <mxPoint x="-10" y="376" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-3" value="email@example.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry width="180" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="426" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-4" value="Password" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry width="220" height="40" relative="1" as="geometry">
+            <mxPoint x="-10" y="466" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-5" value="Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry width="180" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="506" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-6" value="Sign Up" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="550" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-7" value="Company Name" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="-10.454545454545453" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-8" value="ACME" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="10" y="40" width="188.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-9" value="Address" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="-10.004545454545454" y="70" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-10" value="Acacia 123" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="10.45" y="110" width="188.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-11" value="Contact Name" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="-10.004545454545454" y="140" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-12" value="John Smith" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="10.45" y="180" width="188.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-13" value="Contact Email" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="-10.004545454545454" y="220" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-14" value="johnsmith@acme.co.uk" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="10.45" y="260" width="188.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-15" value="Contact Phone Number" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="-10.904545454545454" y="290" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g9cuLIxSBJkBuWdDdOA-16" value="0123...." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="8g9cuLIxSBJkBuWdDdOA-1">
+          <mxGeometry x="9.549999999999997" y="330" width="188.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G83cqyet8XCFWk4tlzu-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Seller Sign Up For Single Site&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1169" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
