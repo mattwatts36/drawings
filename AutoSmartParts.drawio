@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T19:42:17.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Dsl6LpszCh8XExduaCq5" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-24T19:43:17.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5-5H-nean4IB6XWKfCz4" version="24.7.1" type="github" pages="8">
   <diagram name="Main" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -249,188 +249,191 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry y="1570" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-2" value="Part&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-2" value="Part&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-3" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-3" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-4" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-4" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-5" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-5" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-6" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-6" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-1" vertex="1">
           <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MTuxTl-HzfCf3xgHWUIK-7" target="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MTuxTl-HzfCf3xgHWUIK-7" target="W-zVVO9J4-1ET8HgXO4E-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="1570" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-8" value="Part Number" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-7">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-8" value="Part Number" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-7" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-9" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-7">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-9" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-7" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-10" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-7">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-10" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-7" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-11" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-7">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-11" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-7" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-12" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-7">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-12" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-7" vertex="1">
           <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="400" y="1570" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-14" value="Manufacturer" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-13">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-14" value="Manufacturer" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-13" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-15" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-13">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-15" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-13" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-16" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-13">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-16" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-13" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-17" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-13">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-17" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-13" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-18" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-13">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-18" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-13" vertex="1">
           <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-19" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-19" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="600" y="1570" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-20" value="Name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-19">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-20" value="Name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-19" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-21" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-19">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-21" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-19" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-22" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-19">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-22" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-19" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-23" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-19">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-23" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-19" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-24" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-19">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-24" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-19" vertex="1">
           <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-32" value="AutoSmartParts" style="html=1;shadow=0;dashed=0;fillColor=#0085FC;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-32" value="AutoSmartParts" style="html=1;shadow=0;dashed=0;fillColor=#0085FC;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" parent="1" vertex="1">
           <mxGeometry y="1350" width="800" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-33" value="Matt Watts" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-33" value="Matt Watts" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
             <mxPoint x="140" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-34" value="Pricing" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;spacingRight=0;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-34" value="Pricing" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;spacingRight=0;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="210" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-35" value="About" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-35" value="About" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="350" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-36" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#ffffff;fillColor=none;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-36" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#ffffff;fillColor=none;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
             <mxPoint x="-80" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-37" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-37" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
             <mxPoint x="-270" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-38" value="Contact" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" vertex="1" parent="MTuxTl-HzfCf3xgHWUIK-32">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-38" value="Contact" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#79BFFD;align=center;" parent="MTuxTl-HzfCf3xgHWUIK-32" vertex="1">
           <mxGeometry x="280" y="10" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MTuxTl-HzfCf3xgHWUIK-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Buying Page After Login&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MTuxTl-HzfCf3xgHWUIK-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Buying Page After Login&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="1300" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nQCDXX9lIOpYjXeRbNyp-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;" vertex="1" parent="1">
+        <mxCell id="nQCDXX9lIOpYjXeRbNyp-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;" parent="1" vertex="1">
           <mxGeometry y="1754" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nQCDXX9lIOpYjXeRbNyp-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;fontSize=16;" vertex="1" parent="nQCDXX9lIOpYjXeRbNyp-1">
+        <mxCell id="nQCDXX9lIOpYjXeRbNyp-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;fontSize=16;" parent="nQCDXX9lIOpYjXeRbNyp-1" vertex="1">
           <mxGeometry width="40" height="40" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nQCDXX9lIOpYjXeRbNyp-3" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=16;" vertex="1" parent="nQCDXX9lIOpYjXeRbNyp-1">
+        <mxCell id="nQCDXX9lIOpYjXeRbNyp-3" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=16;" parent="nQCDXX9lIOpYjXeRbNyp-1" vertex="1">
           <mxGeometry width="40" height="40" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQCDXX9lIOpYjXeRbNyp-4" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=16;" vertex="1" parent="nQCDXX9lIOpYjXeRbNyp-1">
+        <mxCell id="nQCDXX9lIOpYjXeRbNyp-4" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=16;" parent="nQCDXX9lIOpYjXeRbNyp-1" vertex="1">
           <mxGeometry x="1" width="40" height="40" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="1800" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-2" value="Contact Details&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-2" value="Contact Details + all the part details&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="W-zVVO9J4-1ET8HgXO4E-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-3" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-3" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="W-zVVO9J4-1ET8HgXO4E-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-4" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-4" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="W-zVVO9J4-1ET8HgXO4E-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-5" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-5" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="W-zVVO9J4-1ET8HgXO4E-1" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-zVVO9J4-1ET8HgXO4E-6" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="W-zVVO9J4-1ET8HgXO4E-1">
+        <mxCell id="W-zVVO9J4-1ET8HgXO4E-6" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="W-zVVO9J4-1ET8HgXO4E-1" vertex="1">
           <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vIrjFiNW_FFBgQwVlGqV-1" value="This should be a new page with the part details and all the contact details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
