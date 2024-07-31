@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-31T14:16:25.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="peVJ8WzQtSxl2yKa8pj-" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-31T14:17:05.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="Hq6_42iEujLigQB13Jw8" version="24.7.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1146" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -86,9 +86,9 @@
           <mxGeometry x="1020" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uueP2DIrT8dm-PXU4ACH-17" value="Every fifteen minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="800" y="140" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uueP2DIrT8dm-PXU4ACH-19" value="Time Based Service" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="uueP2DIrT8dm-PXU4ACH-19" value="Timer Based Service" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="200" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
