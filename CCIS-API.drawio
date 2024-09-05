@@ -5,23 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lif8JBEafslfNm7ranTe-1" value="&lt;b&gt;CCIS&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="184" width="710" height="676" as="geometry" />
+          <mxGeometry x="310" y="170" width="710" height="676" as="geometry" />
         </mxCell>
         <mxCell id="Lif8JBEafslfNm7ranTe-4" value="Data Flow: CCIS API" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="-120" width="650" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Lif8JBEafslfNm7ranTe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lif8JBEafslfNm7ranTe-3" target="cEKSAHbCaNsN3OeEtTBm-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="300" />
-              <mxPoint x="645" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uueP2DIrT8dm-PXU4ACH-1" value="HTTP REQUEST Once a Day" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Lif8JBEafslfNm7ranTe-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.6445" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uueP2DIrT8dm-PXU4ACH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=0;strokeColor=#4284F3;strokeWidth=2;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBackgroundColor=none;elbow=vertical;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;" parent="1" source="uueP2DIrT8dm-PXU4ACH-19" target="uueP2DIrT8dm-PXU4ACH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +56,7 @@
           <mxGeometry x="475" y="590" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uueP2DIrT8dm-PXU4ACH-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="100" y="184" width="90" height="230" as="geometry" />
+          <mxGeometry x="50" y="205.5" width="90" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Lif8JBEafslfNm7ranTe-3" value="RDG&lt;div&gt;(validate&amp;nbsp;&lt;/div&gt;&lt;div&gt;railcards)&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="uueP2DIrT8dm-PXU4ACH-7" vertex="1">
           <mxGeometry width="90" height="230" as="geometry" />
@@ -84,9 +71,6 @@
         </mxCell>
         <mxCell id="uueP2DIrT8dm-PXU4ACH-8" value="FAE" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="1140" y="520" width="165" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uueP2DIrT8dm-PXU4ACH-14" value="Hotlist a card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uueP2DIrT8dm-PXU4ACH-15" value="Tell FAE that the card is hotlisted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="250" width="60" height="30" as="geometry" />
@@ -119,8 +103,20 @@
         <mxCell id="dDXMyxGnjNUTMCInh3wV-4" value="Customer\Agent Transactions - &#xa;Add, remove, transfer&#xa;Disassociation,&#xa;limit overrides" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="677" y="760" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UWwhtRLq5gvlbaL_WYV_-1" value="Hotlist cards that shouldnt be used" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="500" width="60" height="30" as="geometry" />
+        <mxCell id="UWwhtRLq5gvlbaL_WYV_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lif8JBEafslfNm7ranTe-3" target="UWwhtRLq5gvlbaL_WYV_-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="321" as="sourcePoint" />
+            <mxPoint x="660" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UWwhtRLq5gvlbaL_WYV_-6" value="HTTP Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="306" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UWwhtRLq5gvlbaL_WYV_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#4284F3;" edge="1" parent="1" source="UWwhtRLq5gvlbaL_WYV_-6" target="cEKSAHbCaNsN3OeEtTBm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="321" as="sourcePoint" />
+            <mxPoint x="430" y="320.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
