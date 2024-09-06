@@ -109,7 +109,7 @@
         <mxCell id="uueP2DIrT8dm-PXU4ACH-15" value="Send FAE the latest hotlist" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="305.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UWwhtRLq5gvlbaL_WYV_-12" value="Every fifteen minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UWwhtRLq5gvlbaL_WYV_-12" value="Every fifteen minutes?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="170" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UWwhtRLq5gvlbaL_WYV_-15" value="Request card day data" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
