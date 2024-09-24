@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="7HFb4eJT5DeADiWzfKyt">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-1" value="AutoSmartParts" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="650" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-6" value="Front End" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1">
+          <mxGeometry x="80" y="90" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1" source="k3Zgb3LlsUT-B3lbN6Yb-8" target="k3Zgb3LlsUT-B3lbN6Yb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-8" value="API" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1">
+          <mxGeometry x="80" y="230" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1">
+          <mxGeometry x="301" y="234" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1" source="k3Zgb3LlsUT-B3lbN6Yb-8" target="k3Zgb3LlsUT-B3lbN6Yb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-14" value="File Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1">
+          <mxGeometry x="520" y="310" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-21" value="Check for files every x minutes" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1">
+          <mxGeometry x="560" y="98" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1" source="k3Zgb3LlsUT-B3lbN6Yb-21" target="k3Zgb3LlsUT-B3lbN6Yb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-24" value="Upload data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.396;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="k3Zgb3LlsUT-B3lbN6Yb-1" source="k3Zgb3LlsUT-B3lbN6Yb-14" target="k3Zgb3LlsUT-B3lbN6Yb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-5" value="View Site" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3Zgb3LlsUT-B3lbN6Yb-6" target="k3Zgb3LlsUT-B3lbN6Yb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-12" value="File Upload" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="503" y="850" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3Zgb3LlsUT-B3lbN6Yb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k3Zgb3LlsUT-B3lbN6Yb-12" target="k3Zgb3LlsUT-B3lbN6Yb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
