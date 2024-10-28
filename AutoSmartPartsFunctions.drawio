@@ -20,15 +20,18 @@
           <mxGeometry x="530" y="188" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GqWtwi7Q9FWvbPXQzCsm-10" value="Sending Emails" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="80" width="520" height="460" as="geometry" />
+          <mxGeometry x="200" y="90" width="520" height="460" as="geometry" />
         </mxCell>
         <mxCell id="GqWtwi7Q9FWvbPXQzCsm-11" value="Import Files" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="580" width="750" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="GqWtwi7Q9FWvbPXQzCsm-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="GqWtwi7Q9FWvbPXQzCsm-11" vertex="1">
-          <mxGeometry x="550" y="108" width="50" height="45" as="geometry" />
+        <mxCell id="jXIFVDLLa0XREE5dFx1B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GqWtwi7Q9FWvbPXQzCsm-11" source="GqWtwi7Q9FWvbPXQzCsm-2" target="GqWtwi7Q9FWvbPXQzCsm-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TZ8ieqnH5Uj2JzsQfqPL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GqWtwi7Q9FWvbPXQzCsm-11" source="GqWtwi7Q9FWvbPXQzCsm-12" target="GqWtwi7Q9FWvbPXQzCsm-13">
+        <mxCell id="GqWtwi7Q9FWvbPXQzCsm-2" value="blob storage can trigger the function for file uploads" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="GqWtwi7Q9FWvbPXQzCsm-11" vertex="1">
+          <mxGeometry x="550" y="110" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ8ieqnH5Uj2JzsQfqPL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GqWtwi7Q9FWvbPXQzCsm-11" source="GqWtwi7Q9FWvbPXQzCsm-12" target="GqWtwi7Q9FWvbPXQzCsm-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="332" />
@@ -44,8 +47,8 @@
         <mxCell id="GqWtwi7Q9FWvbPXQzCsm-13" value="Auto Smart Parts Main" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;" parent="GqWtwi7Q9FWvbPXQzCsm-11" vertex="1">
           <mxGeometry x="308.25" y="290" width="73.5" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="GqWtwi7Q9FWvbPXQzCsm-17" value="Poll every minute for unprocessed files" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GqWtwi7Q9FWvbPXQzCsm-11" source="GqWtwi7Q9FWvbPXQzCsm-12" target="GqWtwi7Q9FWvbPXQzCsm-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jXIFVDLLa0XREE5dFx1B-1" value="&lt;ul&gt;&lt;li&gt;Use a consumption plan - pay per use, auto-scales, default&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="940" y="414" width="220" height="266" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
