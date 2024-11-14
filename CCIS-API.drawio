@@ -18,11 +18,6 @@
         <mxCell id="uueP2DIrT8dm-PXU4ACH-2" value="EM VDP2(revenue inspection)" style="strokeColor=#82b366;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="660" y="70" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uueP2DIrT8dm-PXU4ACH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#4284F3;dashed=0;strokeWidth=2;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBackgroundColor=none;elbow=vertical;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uueP2DIrT8dm-PXU4ACH-4" target="ZAgyCPwNIXEEH-julRxE-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dDXMyxGnjNUTMCInh3wV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#4284F3;" parent="1" source="ZAgyCPwNIXEEH-julRxE-5" target="dDXMyxGnjNUTMCInh3wV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -180,6 +175,17 @@
         </mxCell>
         <mxCell id="IOcrXA5Mr0rZfLiQKI_h-3" value="Get A Railcard(based on a TravelTokenID)" style="whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;rounded=1;arcSize=2;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml-g23kxqWu1kDBN_tH1-2" value="Unique customer ID will identity user with a discount" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4284F3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Ml-g23kxqWu1kDBN_tH1-1" target="uueP2DIrT8dm-PXU4ACH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml-g23kxqWu1kDBN_tH1-1" value="PARE" style="strokeColor=#d79b00;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="1080" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uueP2DIrT8dm-PXU4ACH-6" value="Unique customer ID stored with discount" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#4284F3;dashed=0;strokeWidth=2;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBackgroundColor=none;elbow=vertical;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uueP2DIrT8dm-PXU4ACH-4" target="ZAgyCPwNIXEEH-julRxE-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
